@@ -1,0 +1,25 @@
+/* reset */
+* {margin:0;
+    padding:0;
+    box-sizing: border-box;}
+
+header {background-color: lightslategray;
+    text-align: center;
+    color: lightyellow;   
+}
+
+footer {background-color: lightslategray; 
+    position:fixed;
+    bottom: 0;
+ 
+    width: 100%;
+    text-align: center;
+    color: lightyellow;}
+
+#ondeestamos {
+    text-align:center;}
+
+#quemsomos>h2 {text-align: center;
+                color: cornflowerblue;}
+
+
